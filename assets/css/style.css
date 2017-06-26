@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: url(../images/flight2.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  z-index: -1;
+  width: 100%;
+  
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 55px;
+    font-weight: 200;
